@@ -1,0 +1,17 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 50,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Tribes",
+				"row": 5,
+				"quote": "",
+				"uniques": []
+			}
+		]
+	}
+]

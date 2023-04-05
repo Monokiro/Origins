@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Wandering Tribe",
+		"unitType": "Civilian",
+		"movement": 1,
+		"cost": 100,
+		"uniques": [
+			"Founds a new city <by consuming this unit>",
+			"Requires at least [2] population"
+		],
+		"hurryCostModifier": 20
+	}
+]

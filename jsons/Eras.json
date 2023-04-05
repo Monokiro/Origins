@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Primeval Era",
+		"researchAgreementCost": 150,
+		"startingSettlerCount": 1,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "",
+		"settlerPopulation": 1,
+		"startPercent": 0,
+		"citySound": "cityAncient",
+		"embarkDefense": 6,
+		"iconRGB": [255, 87, 35]
+	}
+]

@@ -1,0 +1,48 @@
+[
+	// Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255, 255, 255]
+		// "innerColor": [255, 255, 255]
+	},
+
+	// Nations
+	{
+		"name": "Default",
+		"leaderName": "Default",
+		"adjective": [],
+		"startBias": [],
+		"preferredVictoryType": "",
+		"favoredReligion": "",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 165, 0],
+		"style": "",
+		"uniqueName": "",
+		"uniques": [
+		],
+		"cities": [
+			"First"
+		]
+	},
+	// Barbarian
+	{
+		"name": "Barbarians",
+		"style": "Barbarians",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200, 12, 12],
+		"uniques": [
+
+		]
+	}
+]

@@ -1,0 +1,15 @@
+[
+    //Civilian
+    {
+        "name": "Tribe",
+        "unitType": "Civilian",
+        "movement": 1,
+        "cost": 100,
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+			"Excess Food converted to Production when under construction",
+			"Requires at least [2] population"
+        ],
+        "hurryCostModifier": 20
+    }
+]

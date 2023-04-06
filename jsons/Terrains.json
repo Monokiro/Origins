@@ -48,13 +48,7 @@
 			"Occurs at temperature between [0.9] and [1] and humidity between [0.5] and [0.6]",
 			"[+3] to Fertility for Map Generation",
 			"A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
-			"A Region can not contain more [Plains] tiles than [Grassland] tiles",
 			"Considered [Desirable] when determining start locations",
-			"Considered [Food] when determining start locations <in [Jungle] Regions>",
-			"Considered [Food] when determining start locations <in [Forest] Regions>",
-			"Considered [Food] when determining start locations <in [Hill] Regions>",
-			"Considered [Food] when determining start locations <in [Grassland] Regions>",
-			"Considered [Food] when determining start locations <in [Hybrid] Regions>",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
 		],
 		"civilopediaText": [

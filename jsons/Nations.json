@@ -9,11 +9,15 @@
 	{
 		"name": "Tribe Album",
 		"outerColor": [255, 255, 255],
-		"innerColor": [180, 180, 180]
+		"innerColor": [144, 144, 144],
+
+		"cities": ["Album"]
 	},
 	{
 		"name": "Tribe Nigreos",
 		"outerColor": [0, 0, 0],
-		"innerColor": [180, 180, 180]
+		"innerColor": [180, 180, 180],
+
+		"cities": ["Nigreos"]
 	}
 ]

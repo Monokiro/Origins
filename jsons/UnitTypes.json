@@ -2,5 +2,9 @@
     {
         "name": "Civilian",
         "movementType": "Land"
+    },
+    {
+        "name": "Infantry",
+        "movementType":" Land"
     }
 ]

@@ -1,0 +1,20 @@
+[
+    {
+		"name": "Hunting Grounds",
+		"terrainsCanBeBuiltOn": [
+			"Grassland"
+		],
+		"food": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Animalistic Nature Origins",
+		"uniques": [
+			"Pillaging this improvement yields approximately [+2 Food]"
+		],
+		"shortcutKey": "F",
+		"civilopediaText": [
+			{
+				"text": "Vast hunting grounds to feed and test"
+			}
+		]
+	}
+]

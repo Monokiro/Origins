@@ -1,0 +1,21 @@
+[
+    {
+        "columnNumber": 0,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Animalistic Nature Origins",
+				"row": 8,
+				"quote": "Adapt and survive",
+				"uniques": ["Starting tech"],
+				"civilopediaText": [
+					{
+						"text": "Adapt and survive"
+					}
+				]
+			}
+		]
+    }
+]

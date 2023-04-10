@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Cultural",
+        "friendBonusUniques": [
+            "[+3 Culture]"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Colonization era]>",
+			"[-5]% Culture cost of adopting new Policies"
+        ],
+        "color": [139, 96, 255]
+    }
+]

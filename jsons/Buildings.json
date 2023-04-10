@@ -1,0 +1,22 @@
+[
+    {
+		"name": "Grand Totem",
+		"isNationalWonder": true,
+		"production": 1,
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityStrength": 1,
+		"cost": 1,
+		"uniques": [
+			"Provides [1] [Digital Storage Space]",
+			"Provides [1] [Digital Storage Space] <after discovering [Info Networks]>",
+			"Indicates the capital city"
+		],
+		"civilopediaText": [
+			{
+				"text": "The very center of your tribe capital settlement"
+			}
+		]
+	}
+]

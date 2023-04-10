@@ -8,12 +8,12 @@
 
 	{
 		"name": "Tribe Album",
-		"outerColor": [255, 255, 255]
+		"outerColor": [255, 255, 255],
 		"innerColor": [180. 180. 180]
 	},
 	{
-		"name":"Tribe Nigreos"
-		"outerColor": [0, 0, 0]
+		"name":"Tribe Nigreos",
+		"outerColor": [0, 0, 0],
 		"innerColor": [180, 180, 180]
 	}
 ]

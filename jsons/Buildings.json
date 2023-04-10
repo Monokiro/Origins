@@ -9,8 +9,6 @@
 		"cityStrength": 1,
 		"cost": 1,
 		"uniques": [
-			"Provides [1] [Digital Storage Space]",
-			"Provides [1] [Digital Storage Space] <after discovering [Info Networks]>",
 			"Indicates the capital city"
 		],
 		"civilopediaText": [

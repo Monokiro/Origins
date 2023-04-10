@@ -3,6 +3,7 @@
 		"name": "Primeval Era",
 		"researchAgreementCost": 150,
 		"startingSettlerCount": 1,
+		"startingSettlerUnit": "Tribe",
 		"startingWorkerCount": 0,
 		"startingMilitaryUnitCount": 0,
 		"startingMilitaryUnit": "",

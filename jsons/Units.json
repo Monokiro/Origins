@@ -11,5 +11,16 @@
 			"Requires at least [2] population"
         ],
         "hurryCostModifier": 20
-    }
+    },
+    {
+		"name": "Workers",
+		"unitType": "Civilian",
+		"movement": 1,
+		"uniques": [
+			"Can build [Land] improvements on tiles",
+			"May create improvements on water resources <for [2] movement>",
+			"Can build [Water] improvements on tiles"
+		],
+		"cost": 80
+	}
 ]

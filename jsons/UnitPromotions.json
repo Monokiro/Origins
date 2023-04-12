@@ -12,6 +12,7 @@
 	},
 	{
 		"name": "Veteran",
+		"prerequisites": ["Experianced"],
 		"uniques": [
 			"[+10]% Strength"
 		],
@@ -23,6 +24,7 @@
 	},
 	{
 		"name": "Master",
+		"prerequisites": ["Veteran"],
 		"uniques": [
 			"[+10]% Strength"
 		],
@@ -34,6 +36,7 @@
 	},
 	{
 		"name": "Guru",
+		"prerequisites": ["Master"],
 		"uniques": [
 			"[+10]% Strength"
 		],

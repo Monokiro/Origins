@@ -18,9 +18,7 @@
 		"unitType": "Civilian",
 		"movement": 1,
 		"uniques": [
-			"Can build [Land] improvements on tiles",
-			"May create improvements on water resources <for [2] movement>",
-			"Can build [Water] improvements on tiles"
+			"Can build [Land] improvements on tiles"
 		],
 		"cost": 100
 	},
@@ -42,7 +40,7 @@
     {
         "name": "Wolves",
 		"unitType": "Animals",
-		"uniqueTo": "Wilds",
+		"uniqueTo": "Barbarians",
         "replaces": "Hunters",
 		"movement": 2,
 		"strength": 1,

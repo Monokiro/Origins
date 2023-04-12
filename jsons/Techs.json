@@ -8,11 +8,11 @@
 			{
 				"name": "Animalistic Nature Origins",
 				"row": 8,
-				"quote": "Adapt and survive",
+				"quote": "",
 				"uniques": ["Starting tech"],
 				"civilopediaText": [
 					{
-						"text": "Adapt and survive"
+						"text": ""
 					}
 				]
 			}

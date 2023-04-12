@@ -43,6 +43,7 @@
         "name": "Wolves",
 		"unitType": "Animals",
 		"uniqueTo": "Wilds",
+        "replaces": "Hunters",
 		"movement": 2,
 		"strength": 1,
 		"cost": 100,

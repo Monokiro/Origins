@@ -2,11 +2,45 @@
 	{
 		"name": "Experianced",
 		"uniques": [
+			"[+10]% Strength"
 		],
 		"unitTypes": [
 			"Irregular Infantry"
 		],
 		"row": 0,
         "column": 0
+	},
+	{
+		"name": "Veteran",
+		"uniques": [
+			"[+10]% Strength"
+		],
+		"unitTypes": [
+			"Irregular Infantry"
+		],
+		"row": 0,
+        "column": 1
+	},
+	{
+		"name": "Master",
+		"uniques": [
+			"[+10]% Strength"
+		],
+		"unitTypes": [
+			"Irregular Infantry"
+		],
+		"row": 0,
+        "column": 2
+	},
+	{
+		"name": "Guru",
+		"uniques": [
+			"[+10]% Strength"
+		],
+		"unitTypes": [
+			"Irregular Infantry"
+		],
+		"row": 0,
+        "column": 3
 	}
 ]

@@ -2,11 +2,13 @@
     {
 		"name": "Grand Totem",
 		"isNationalWonder": true,
+		"food": 2,
 		"production": 1,
 		"science": 1,
 		"gold": 1,
 		"culture": 1,
-		"cityStrength": 1,
+		"cityStrength": 0,
+		"cityHealth": 0,
 		"cost": 1,
 		"uniques": [
 			"Indicates the capital city"

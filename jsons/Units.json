@@ -1,5 +1,7 @@
 [
-    //Civilian
+    //
+    // Civilian
+    //
     {
         "name": "Tribe",
         "unitType": "Civilian",
@@ -21,6 +23,17 @@
 			"May create improvements on water resources <for [2] movement>",
 			"Can build [Water] improvements on tiles"
 		],
-		"cost": 80
-	}
+		"cost": 100
+	},
+
+    //
+    // Irregular Infantry
+    //
+    {
+        "name": "Hunters",
+        "unitType": "Irregular Infantry",
+        "movement": 1,
+        "strength": 1,
+        "cost": 100
+    }
 ]

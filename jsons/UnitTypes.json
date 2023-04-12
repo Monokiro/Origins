@@ -4,7 +4,7 @@
         "movementType": "Land"
     },
     {
-        "name": "Infantry",
+        "name": "Irregular Infantry",
         "movementType":" Land"
     }
 ]

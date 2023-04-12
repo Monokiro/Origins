@@ -7,8 +7,10 @@
 		"science": 1,
 		"gold": 1,
 		"culture": 1,
-		"cityStrength": 0,
-		"cityHealth": 0,
+		"specialistSlots": { 
+			"Hunter": 1,
+			"Gatherer": 1
+		},
 		"cost": 1,
 		"uniques": [
 			"Indicates the capital city"

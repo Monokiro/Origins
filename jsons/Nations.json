@@ -26,7 +26,6 @@
 		"name": "Wilds",
 		"style": "Barbarians",
 		"outerColor": [0, 0, 0],
-		"innerColor": [185, 12, 12],
-		"uniques": ["[-33]% Strength <vs cities> <before discovering [Steam Power]>"]
+		"innerColor": [185, 12, 12]
 	}
 ]

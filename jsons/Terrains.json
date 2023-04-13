@@ -118,7 +118,7 @@
 		"impassable": true,
 		//"movementCost": 3,
 		"overrideStats": true,
-		"occursOn": ["Ocean", "Coast"],
+		"occursOn": ["Ocean", "Coast", "Grassland", "Hill"],
 		/*
 		"occursOn": [
 			"Ocean", 
@@ -129,7 +129,7 @@
 		],
 		*/
 		"uniques": [
-			"Occurs on latitudes from [0] to [100] percent of distance equator to pole",
+			"Occurs on latitudes from [10] to [100] percent of distance equator to pole",
 			"[-1] to Fertility for Map Generation",
 			"Considered [Undesirable] when determining start locations"
 		]

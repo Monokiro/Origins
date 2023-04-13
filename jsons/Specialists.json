@@ -5,6 +5,7 @@
         "uniques": [
             "[+5]% Production when constructing [Hunters] [in this city]"
         ],
+        //"greatPersonPoints": { "Name": Value },
         "color": [255, 20, 20]
     },
     {

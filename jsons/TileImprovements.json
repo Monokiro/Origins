@@ -8,35 +8,54 @@
 		"turnsToBuild": 10,
 		"techRequired": "Animalistic Nature Origins",
 		"uniques": [
-			"Pillaging this improvement yields approximately [+2 Food]"
+			
 		],
-		"shortcutKey": "F",
-		"civilopediaText": [
-			{
-				"text": "Vast hunting grounds to feed and test"
-			}
-		]
+		"shortcutKey": "F"
 	},
 
 	{
 		//"name": "Ancient ruins",
 		"name": "Curiosity",
-		"terrainsCanBeBuiltOn": ["Land","Water"],
-		"uniques": ["Unpillagable", "Provides a random bonus when entered","Unbuildable"]
+		"terrainsCanBeBuiltOn": [
+			"Land",
+			"Water"
+		],
+		"uniques": [
+			"Unpillagable", 
+			"Provides a random bonus when entered",
+			"Unbuildable"
+		]
 	},
 	{
 		"name": "City ruins",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable","Unbuildable","Will be replaced by automated workers"]
+		"terrainsCanBeBuiltOn": [
+			"Land"
+		],
+		"uniques": [
+			"Unpillagable",
+			"Unbuildable",
+			"Will be replaced by automated workers"
+		]
 	},
 	{
 		"name": "City center",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Irremovable","Unbuildable"]
+		"terrainsCanBeBuiltOn": [
+			"Land"
+		],
+		"uniques": [
+			"Unpillagable", 
+			"Irremovable",
+			"Unbuildable"
+		]
 	},
 	{
 		"name": "Barbarian encampment",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable","Unbuildable"]
+		"terrainsCanBeBuiltOn": [
+			"Land"
+		],
+		"uniques": [
+			"Unpillagable",
+			"Unbuildable"
+		]
 	}
 ]

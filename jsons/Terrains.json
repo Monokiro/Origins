@@ -116,7 +116,6 @@
 		"name": "Ice",
 		"type": "Land",
 		"movementCost": 3,
-		"overrideStats": true,
 		"uniques": [
 			"Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
 			"Considered [Undesirable] when determining start locations"
@@ -126,7 +125,6 @@
 		"name": "Ice",
 		"type": "Water",
 		"movementCost": 3,
-		"overrideStats": true,
 		"uniques": [
 			"Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
 			"Considered [Undesirable] when determining start locations"

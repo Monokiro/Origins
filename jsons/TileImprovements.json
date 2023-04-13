@@ -16,5 +16,27 @@
 				"text": "Vast hunting grounds to feed and test"
 			}
 		]
+	},
+
+	{
+		//"name": "Ancient ruins",
+		"name": "Curiosity",
+		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"uniques": ["Unpillagable", "Provides a random bonus when entered","Unbuildable"]
+	},
+	{
+		"name": "City ruins",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable","Unbuildable","Will be replaced by automated workers"]
+	},
+	{
+		"name": "City center",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable", "Irremovable","Unbuildable"]
+	},
+	{
+		"name": "Barbarian encampment",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable","Unbuildable"]
 	}
 ]

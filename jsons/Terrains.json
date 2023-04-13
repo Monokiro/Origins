@@ -115,6 +115,7 @@
 	{
 		"name": "Ice",
 		"type": "TerrainFeature",
+		"impassable": true,
 		//"movementCost": 3,
 		"overrideStats": true,
 		"occursOn": ["Ocean", "Coast"],

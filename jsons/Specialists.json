@@ -1,10 +1,10 @@
 [
     {
         "name": "Hunter",
-        "food": 1,
-        "uniques": [
-            "[+5]% Production when constructing [Hunters] [in this city]"
-        ]
+        "food": 1//,
+        //"uniques": [
+        //    "[+5]% Production when constructing [Hunters] [in this city]"
+        //]
     },
     {
         "name": "Gatherer",

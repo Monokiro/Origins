@@ -60,7 +60,7 @@
 			"A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
-			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
+			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
 	},
 

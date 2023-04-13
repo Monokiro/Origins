@@ -41,6 +41,44 @@
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
 	},
+	{
+		"name": "Tundra",
+		"type": "Land",
+		"movementCost": 1,
+		"defenceBonus": -0.2,
+		"RGB": [189, 204, 191],
+		"uniques": [
+			"Occurs at temperature between [-0.9] and [-0.6] and humidity between [0.8] and [1]",
+            "Occurs at temperature between [-0.8] and [-0.5] and humidity between [0.6] and [0.8]",
+            "Occurs at temperature between [-0.7] and [-0.4] and humidity between [0.4] and [0.6]",
+            "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
+            "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
+			"[+2] to Fertility for Map Generation",
+			"A Region is formed with at least [30]% [Tundra] tiles, with priority [1]",
+			"Considered [Desirable] when determining start locations",
+			"Considered [Food] when determining start locations",
+			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
+	},
+	{
+		"name": "Desert",
+		"type": "Land",
+		"movementCost": 1,
+		"defenceBonus": -0.2,
+		"RGB": [230, 230, 113],
+		"uniques": [
+			"Occurs at temperature between [-0.1] and [0.9] and humidity between [0] and [0.2]",
+            "Occurs at temperature between [0.1] and [0.8] and humidity between [0.2] and [0.3]",
+            "Occurs at temperature between [0.2] and [0.7] and humidity between [0.3] and [0.4]",
+            "Occurs at temperature between [0.4] and [0.6] and humidity between [0.4] and [0.5]",
+            "Occurs at temperature between [0.5] and [0.6] and humidity between [0.5] and [0.7]",
+			"[+1] to Fertility for Map Generation",
+			"A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
+			"Considered [Desirable] when determining start locations",
+			"Considered [Food] when determining start locations",
+			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
+		]
+	},
 
 	//
 	//	Terrain Features
@@ -85,8 +123,6 @@
 			"Provides a one-time Production bonus to the closest city when cut down",
 			"Blocks line-of-sight from tiles at same elevation",
 			"A Region is formed with at least [30]% [Forest] tiles, with priority [3]",
-			"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
-			"A Region can not contain more [Jungle] tiles than [Forest] tiles",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Production] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."

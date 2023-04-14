@@ -114,18 +114,17 @@
 	},
 	{
 		"name": "Ice",
-		//"type": "TerrainFeature",
-  "type": "Land",
+		"type": "TerrainFeature",
 		"movementCost": 3,
-  //"overrideStats": true,
-  //"unbuildable": true,
-  //"occursOn": [
-  //  "Ocean",
-  //  "Coast"
-  //],
+		"overrideStats": true,
+		"unbuildable": true,
+		"occursOn": [
+			"Ocean",
+			"Coast"
+		],
 		"uniques": [
-   "Rough Terrain",
-			"Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
+			"Rough Terrain",
+			"Occurs at temperature between [-1] and [-0.85] and humidity between [0] and [1]",
 			"Considered [Undesirable] when determining start locations"
 		]
 	}

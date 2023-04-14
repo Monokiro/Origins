@@ -120,9 +120,7 @@
 		"impassable": true,
 		"occursOn": [
 			"Ocean",
-			"Coast",
-			"Grassland",
-			"Tundra"
+			"Coast"
 		],
 		"uniques": [
 			"Rough Terrain",

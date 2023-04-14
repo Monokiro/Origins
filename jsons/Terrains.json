@@ -124,7 +124,7 @@
 		],
 		"uniques": [
 			"Rough Terrain",
-			"Occurs at temperature between [-1] and [-0.85] and humidity between [0] and [1]",
+			"Occurs at temperature between [-1] and [-0.8] and humidity between [-1] and [1]",
 			"Considered [Undesirable] when determining start locations"
 		]
 	}

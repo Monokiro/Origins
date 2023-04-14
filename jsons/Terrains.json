@@ -117,7 +117,6 @@
 		"name": "Ice",
 		"type": "TerrainFeature",
 		"overrideStats": true,
-		"unbuildable": true,
 		"impassable": true,
 		"occursOn": [
 			"Ocean",

@@ -22,6 +22,16 @@
 		]
 	},
 	{
+		"name": "Ice",
+		"type": "Water",
+		"movementCost": 3,
+		"RGB": [2, 104, 100],
+		"uniques": [
+			"Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
+			"Considered [Undesirable] when determining start locations"
+		]
+	},
+	{
 		"name": "Grassland",
 		"type": "Land",
 		"movementCost": 1,
@@ -110,16 +120,6 @@
 			"Considered [Desirable] when determining start locations",
 			"Considered [Production] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
-		]
-	},
-	{
-		"name": "Ice",
-		"type": "Water",
-		"movementCost": 3,
-		"overrideStats": true,
-		"uniques": [
-			"Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
-			"Considered [Undesirable] when determining start locations"
 		]
 	}
 ]

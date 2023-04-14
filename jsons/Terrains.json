@@ -119,9 +119,12 @@
 		"movementCost": 3,
 		"overrideStats": true,
 		"unbuildable": true,
+		"impassable": true,
 		"occursOn": [
 			"Ocean",
-			"Coast"
+			"Coast",
+			"Grassland",
+			"Tundra"
 		],
 		"uniques": [
 			"Rough Terrain",

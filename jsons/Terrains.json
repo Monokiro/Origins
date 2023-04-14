@@ -75,7 +75,9 @@
 		"defenceBonus": 0.1,
 		"RGB": [105, 125, 72],
 		"occursOn": [
-			"Grassland"
+			"Grassland",
+			"Desert",
+			"Tundra"
 		],
 		"uniques": [
 			"Rough terrain",

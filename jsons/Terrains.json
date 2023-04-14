@@ -114,8 +114,9 @@
 	},
 	{
 		"name": "Ice",
-		"type": "TerrainFeature",
+		"type": "Water",
 		"movementCost": 3,
+		"overrideStats": true,
 		"occursOn": [
 			"Ocean",
 			"Coast"

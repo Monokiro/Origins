@@ -17,7 +17,6 @@
 		"movementCost": 1,
 		"RGB": [42, 206, 179],
 		"uniques": [
-			"[+2] to Fertility for Map Generation",
 			"Every [60] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
 	},
@@ -27,9 +26,7 @@
 		"movementCost": 1,
 		"RGB": [107, 214, 152],
 		"uniques": [
-			"[+3] to Fertility for Map Generation",
 			"A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
-			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
@@ -41,8 +38,6 @@
 		"defenceBonus": -0.2,
 		"RGB": [189, 204, 191],
 		"uniques": [
-			"[+2] to Fertility for Map Generation",
-			"A Region is formed with at least [30]% [Tundra] tiles, with priority [1]",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
@@ -56,11 +51,21 @@
 		"RGB": [230, 230, 113],
 		"uniques": [
 			"Occurs on latitudes from [0] to [5] percent of distance equator to pole",
-			"[+1] to Fertility for Map Generation",
 			"A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
-			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
+	},
+	{
+		"name": "Mountain",
+		"type": "Land",
+		"movementCost": 3,
+		"defenceBonus": 0.25,
+		"RGB": [120, 120, 120],
+		"uniques": [
+			"Rough terrain",
+			"Has an elevation of [4] for visibility calculations",
+			"Occurs in chains at high elevations"
 		]
 	},
 

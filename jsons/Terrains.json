@@ -116,7 +116,6 @@
 	{
 		"name": "Ice",
 		"type": "TerrainFeature",
-		"movementCost": 3,
 		"overrideStats": true,
 		"unbuildable": true,
 		"impassable": true,

@@ -22,28 +22,28 @@
 	},
 	{
 		"name": "Tribe Ao",
-		"outerColor": [0, 0, 255],
+		"outerColor": [12, 12, 255],
 		"innerColor": [180, 180, 180],
 
 		"cities": ["Ao"]
 	},
 	{
 		"name": "Tribe Aka",
-		"outerColor": [255, 0, 0],
+		"outerColor": [255, 12, 12],
 		"innerColor": [180, 180, 180],
 
 		"cities": ["Aka"]
 	},
 	{
 		"name": "Tribe Midori",
-		"outerColor": [0, 255, 0],
+		"outerColor": [12, 255, 12],
 		"innerColor": [180, 180, 180],
 
 		"cities": ["Midori"]
 	},
 	{
 		"name": "Tribe Kiiro",
-		"outerColor": [255, 255, 0],
+		"outerColor": [255, 255, 12],
 		"innerColor": [180, 180, 180],
 
 		"cities": ["Kiiro"]

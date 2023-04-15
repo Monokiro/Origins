@@ -26,7 +26,7 @@
 		"movementCost": 1,
 		"RGB": [107, 214, 152],
 		"uniques": [
-			"A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
+			"Occurs at temperature between [-0.7] and [0.8] and humidity between [-1] and [1]",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
@@ -38,6 +38,7 @@
 		"defenceBonus": -0.2,
 		"RGB": [189, 204, 191],
 		"uniques": [
+			"Occurs at temperature between [-1] and [-0.7] and humidity between [-1] and [1]",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
@@ -50,8 +51,7 @@
 		"defenceBonus": -0.2,
 		"RGB": [230, 230, 113],
 		"uniques": [
-			"Occurs on latitudes from [0] to [5] percent of distance equator to pole",
-			"A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
+			"Occurs at temperature between [0.8] and [1] and humidity between [-1] and [1]",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
@@ -90,7 +90,6 @@
 			"Has an elevation of [2] for visibility calculations",
 			"Occurs in groups around high elevations",
 			"[+1] to Fertility for Map Generation",
-			"A Region is formed with at least [40]% [Hill] tiles, with priority [5]",
 			"Base Terrain on this tile is not counted for Region determination",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Production] when determining start locations",

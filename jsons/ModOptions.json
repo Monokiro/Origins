@@ -10,7 +10,7 @@
     ],
     constants:{
         maxXPfromBarbarians: 100000000,
-        cityStrengthBase: 1,
+        cityStrengthBase: 10,
         cityStrengthPerPop: 0.1,
         cityStrengthFromTechsMultiplier: 0,
         unitUpgradeCost:{

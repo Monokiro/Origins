@@ -128,7 +128,7 @@
 			"Coast"
 		],
 		"uniques": [
-			"Rough Terrain",
+			"Rough terrain",
 			"Occurs at temperature between [-1] and [-0.8] and humidity between [-1] and [1]",
 			"Considered [Undesirable] when determining start locations"
 		]

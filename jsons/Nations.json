@@ -29,22 +29,22 @@
 	},
 	{
 		"name": "Tribe Aka",
-		"outerColor": [255, 12, 12],
-		"innerColor": [180, 180, 180],
+		"outerColor": [204, 9, 9],
+		"innerColor": [195, 195, 195],
 
 		"cities": ["Aka"]
 	},
 	{
 		"name": "Tribe Midori",
-		"outerColor": [12, 255, 12],
-		"innerColor": [180, 180, 180],
+		"outerColor": [84, 255, 84],
+		"innerColor": [126, 126, 126],
 
 		"cities": ["Midori"]
 	},
 	{
 		"name": "Tribe Kiiro",
-		"outerColor": [255, 255, 12],
-		"innerColor": [180, 180, 180],
+		"outerColor": [255, 255, 72],
+		"innerColor": [135, 135, 135],
 
 		"cities": ["Kiiro"]
 	},
@@ -54,7 +54,7 @@
 	{
 		"name": "Barbarians",
 		"style": "Barbarians",
-		"outerColor": [128, 128, 128],
-		"innerColor": [185, 12, 12]
+		"outerColor": [153, 153, 153],
+		"innerColor": [148, 9, 9]
 	}
 ]

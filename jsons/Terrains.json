@@ -38,10 +38,22 @@
 		"defenceBonus": -0.2,
 		"RGB": [189, 204, 191],
 		"uniques": [
-			"Occurs at temperature between [-1] and [-0.7] and humidity between [-1] and [1]",
+			"Occurs at temperature between [0.9] and [-0.7] and humidity between [-1] and [1]",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
+	},
+	{
+		"name": "Snow",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [231, 242, 249],
+		"uniques": [
+			"Occurs at temperature between [-1] and [-0.9] and humidity between [-1] and [1]",
+			"Always Fertility [-1] for Map Generation",
+			"Considered [Undesirable] when determining start locations",
+			"Every [17] tiles with this terrain will receive a major deposit of a strategic resource.",
 		]
 	},
 	{
@@ -73,7 +85,7 @@
 		"type": "Water",
 		"RGB": [123, 202, 226],
 		"uniques": [
-			"Occurs at temperature between [-1] and [1] and humidity between [0.9] and [1]",
+			"Occurs at temperature between [-1] and [1] and humidity between [0.8] and [1]",
 			"Fresh water",
 			"Considered [Food] when determining start locations",
 			"Considered [Desirable] when determining start locations"

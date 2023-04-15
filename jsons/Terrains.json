@@ -38,7 +38,7 @@
 		"defenceBonus": -0.2,
 		"RGB": [189, 204, 191],
 		"uniques": [
-			"Occurs at temperature between [0.9] and [-0.7] and humidity between [-1] and [1]",
+			"Occurs at temperature between [-0.9] and [-0.7] and humidity between [-1] and [1]",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."

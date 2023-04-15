@@ -10,7 +10,7 @@
 		"settlerPopulation": 1,
 		"startPercent": 0,
 		"citySound": "cityAncient",
-		"embarkDefense": 6,
+		"embarkDefense": 1,
 		"iconRGB": [255, 87, 35]
 	}
 ]

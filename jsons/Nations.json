@@ -7,19 +7,48 @@
 	},
 
 	{
-		"name": "Tribe Album",
+		"name": "Tribe Shiro",
 		"outerColor": [255, 255, 255],
 		"innerColor": [144, 144, 144],
 
-		"cities": ["Album"]
+		"cities": ["Shiro"]
 	},
 	{
-		"name": "Tribe Nigreos",
+		"name": "Tribe Kuro",
 		"outerColor": [0, 0, 0],
 		"innerColor": [180, 180, 180],
 
-		"cities": ["Nigreos"]
+		"cities": ["Kuro"]
 	},
+	{
+		"name": "Tribe Ao",
+		"outerColor": [0, 0, 0],
+		"innerColor": [180, 180, 180],
+
+		"cities": ["Ao"]
+	},
+	{
+		"name": "Tribe Aka",
+		"outerColor": [0, 0, 0],
+		"innerColor": [180, 180, 180],
+
+		"cities": ["Aka"]
+	},
+	{
+		"name": "Tribe Midori",
+		"outerColor": [0, 0, 0],
+		"innerColor": [180, 180, 180],
+
+		"cities": ["Midori"]
+	},
+	{
+		"name": "Tribe Kiiro",
+		"outerColor": [0, 0, 0],
+		"innerColor": [180, 180, 180],
+
+		"cities": ["Kiiro"]
+	},
+
 
 	// Barbarian
 	{

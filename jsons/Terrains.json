@@ -68,6 +68,22 @@
 			"Occurs in chains at high elevations"
 		]
 	},
+	{
+		"name": "Lakes",
+		"type": "Water",
+		"RGB": [123, 202, 226],
+		"uniques": [
+			"Occurs at temperature between [-1] and [1] and humidity between [0.9] and [1]",
+			"Fresh water",
+			"Considered [Food] when determining start locations",
+			"Considered [Desirable] when determining start locations"
+		],
+		"civilopediaText": [
+			{
+				"text": "Some surface water coalesce into lakes, of which life took full advantage of."
+			}
+		]
+	},
 
 	//
 	//	Terrain Features

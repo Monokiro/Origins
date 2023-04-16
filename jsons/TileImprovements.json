@@ -18,8 +18,8 @@
 	{
 		"name": "Stone Gathering",
 		"terrainsCanBeBuiltOn": [
-			"Hills",
-			"Mountains",
+			"Hill",
+			"Mountain",
 			"Plains",
 			"Desert"
 		],

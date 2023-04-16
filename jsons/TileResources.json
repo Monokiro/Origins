@@ -25,8 +25,8 @@
 		"resourceType": "Bonus",
 		"revealedBy": "Primitive Tools",
 		"terrainsCanBeFoundOn": [
-			"Hills",
-			"Mountains",
+			"Hill",
+			"Mountain",
 			"Plains",
 			"Desert"
 		],
@@ -36,8 +36,8 @@
 		},
 		"uniques": [
 			"Stockpiled",
-			"Generated on every [8] tiles <in [Hills] tiles>",
-			"Generated on every [6] tiles <in [Mountains] tiles>",
+			"Generated on every [8] tiles <in [Hill] tiles>",
+			"Generated on every [6] tiles <in [Mountain] tiles>",
 			"Generated on every [15] tiles <in [Plains] tiles>",
 			"Generated on every [25] tiles <in [Desert] tiles>"
 		]

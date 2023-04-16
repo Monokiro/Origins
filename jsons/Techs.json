@@ -7,13 +7,35 @@
 		"techs": [
 			{
 				"name": "Animalistic Nature Origins",
-				"row": 8,
+				"column": 0,
+				"row": 0,
 				"quote": "",
-				"uniques": ["Starting tech"],
-				"civilopediaText": [
-					{
-						"text": ""
-					}
+				"uniques": [
+					"Starting tech"
+				]
+			},
+			{
+				"name": "Primitive Tools",
+				"column": 1,
+				"row": 0,
+				"quote": "",
+				"prerequisites": [
+					"Animalistic Nature Origins"
+				],
+				"uniques": [
+
+				]
+			},
+			{
+				"name": "Primitive Hunting Weapons",
+				"column": 2,
+				"row": 0,
+				"quote": "",
+				"prerequisites": [
+					"Primitive Tools"
+				],
+				"uniques": [
+					"[+20]% Strength <for [Hunters] units> <vs [Animals] units>"
 				]
 			}
 		]

@@ -7,6 +7,7 @@
 	},
 
 	{
+		//white
 		"name": "Tribe Shiro",
 		"outerColor": [255, 255, 255],
 		"innerColor": [144, 144, 144],
@@ -14,6 +15,7 @@
 		"cities": ["Shiro"]
 	},
 	{
+		//black
 		"name": "Tribe Kuro",
 		"outerColor": [0, 0, 0],
 		"innerColor": [180, 180, 180],
@@ -21,6 +23,7 @@
 		"cities": ["Kuro"]
 	},
 	{
+		//blue
 		"name": "Tribe Ao",
 		"outerColor": [12, 12, 255],
 		"innerColor": [180, 180, 180],
@@ -28,6 +31,7 @@
 		"cities": ["Ao"]
 	},
 	{
+		//red
 		"name": "Tribe Aka",
 		"outerColor": [204, 9, 9],
 		"innerColor": [195, 195, 195],
@@ -35,6 +39,7 @@
 		"cities": ["Aka"]
 	},
 	{
+		//green
 		"name": "Tribe Midori",
 		"outerColor": [84, 255, 84],
 		"innerColor": [126, 126, 126],
@@ -42,11 +47,28 @@
 		"cities": ["Midori"]
 	},
 	{
+		//yellow
 		"name": "Tribe Kiiro",
 		"outerColor": [255, 255, 72],
 		"innerColor": [135, 135, 135],
 
 		"cities": ["Kiiro"]
+	},
+	{
+		//brown
+		"name": "Tribe Chairo",
+		"outerColor": [165, 42, 42],
+		"innerColor": [135, 135, 135],
+
+		"cities": ["Chairo"]
+	},
+	{
+		//Golden
+		"name": "Tribe Ogonshoku",
+		"outerColor": [165, 42, 42],
+		"innerColor": [135, 135, 135],
+
+		"cities": ["Ogonshoku"]
 	},
 
 

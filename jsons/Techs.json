@@ -12,7 +12,15 @@
 				"uniques": [
 					"Starting tech"
 				]
-			},
+			}
+		]
+    },
+	{
+		"columnNumber": 1,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
 			{
 				"name": "Primitive Tools",
 				"row": 0,
@@ -23,18 +31,18 @@
 				"uniques": [
 
 				]
-			},
-			{
-				"name": "Primitive Hunting Weapons",
-				"row": 0,
-				"quote": "",
-				"prerequisites": [
-					"Primitive Tools"
-				],
-				"uniques": [
-					"[+20]% Strength <for [Hunters] units> <vs [Animals] units>"
-				]
 			}
 		]
-    }
+	},
+	{
+		"name": "Primitive Hunting Weapons",
+		"row": 0,
+		"quote": "",
+		"prerequisites": [
+			"Primitive Tools"
+		],
+		"uniques": [
+			"[+20]% Strength <for [Hunters] units> <vs [Animals] units>"
+		]
+	}
 ]

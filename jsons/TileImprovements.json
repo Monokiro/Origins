@@ -1,4 +1,7 @@
 [
+	//
+	// Bonus
+	//
     {
 		"name": "Hunting Grounds",
 		"terrainsCanBeBuiltOn": [
@@ -12,7 +15,26 @@
 		],
 		"shortcutKey": "F"
 	},
+	{
+		"name": "Stone Gathering",
+		"terrainsCanBeBuiltOn": [
+			"Hills",
+			"Mountains",
+			"Plains",
+			"Desert"
+		],
+		"food": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Tribal Organisation",
+		"uniques": [
+			"Can only be built to improve a resource"
+		],
+		"shortcutKey": "F"
+	},
 
+	//
+	// Etc
+	//
 	{
 		//"name": "Ancient ruins",
 		"name": "Curiosity",

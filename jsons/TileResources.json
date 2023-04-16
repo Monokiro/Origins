@@ -3,13 +3,42 @@
 		"name": "Prey",
 		"resourceType": "Bonus",
 		"revealedBy": "Tribal Organisation",
-		"terrainsCanBeFoundOn": ["Grassland"],
+		"terrainsCanBeFoundOn": [
+			"Grassland",
+			"Plains",
+			"Tundra",
+			"Desert"
+		],
 		"improvement": "Hunting Grounds",
-		"improvementStats": { "food": 1 },
+		"improvementStats": {
+			"food": 1
+		},
 		"uniques": [
 			"Generated on every [10] tiles <in [Grassland] tiles>",
 			"Generated on every [15] tiles <in [Plains] tiles>",
 			"Generated on every [20] tiles <in [Tundra] tiles>",
+			"Generated on every [25] tiles <in [Desert] tiles>"
+		]
+	},
+	{
+		"name": "Stone",
+		"resourceType": "Bonus",
+		"revealedBy": "Primitive Tools",
+		"terrainsCanBeFoundOn": [
+			"Hills",
+			"Mountains",
+			"Plains",
+			"Desert"
+		],
+		"improvement": "Stone Gathering",
+		"improvementStats": {
+			"production": 1
+		},
+		"uniques": [
+			"Stockpiled",
+			"Generated on every [8] tiles <in [Hills] tiles>",
+			"Generated on every [6] tiles <in [Mountains] tiles>",
+			"Generated on every [15] tiles <in [Plains] tiles>",
 			"Generated on every [25] tiles <in [Desert] tiles>"
 		]
 	}

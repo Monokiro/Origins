@@ -25,7 +25,7 @@
 		],
 		"food": 1,
 		"turnsToBuild": 10,
-		"techRequired": "Tribal Organisation",
+		"techRequired": "Primitive Tools",
 		"uniques": [
 			"Can only be built to improve a resource"
 		],

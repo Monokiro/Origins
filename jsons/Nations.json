@@ -65,8 +65,8 @@
 	{
 		//Golden
 		"name": "Tribe Ogonshoku",
-		"outerColor": [255, 215, 0],
-		"innerColor": [135, 135, 135],
+		"outerColor": [255, 219, 25],
+		"innerColor": [121, 121, 121],
 
 		"cities": ["Ogonshoku"]
 	},

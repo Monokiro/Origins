@@ -57,15 +57,15 @@
 	{
 		//brown
 		"name": "Tribe Chairo",
-		"outerColor": [165, 42, 42],
-		"innerColor": [135, 135, 135],
+		"outerColor": [140, 35, 35],
+		"innerColor": [153, 153, 153],
 
 		"cities": ["Chairo"]
 	},
 	{
 		//Golden
 		"name": "Tribe Ogonshoku",
-		"outerColor": [165, 42, 42],
+		"outerColor": [255, 215, 0],
 		"innerColor": [135, 135, 135],
 
 		"cities": ["Ogonshoku"]

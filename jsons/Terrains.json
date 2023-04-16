@@ -26,7 +26,7 @@
 		"movementCost": 1,
 		"RGB": [107, 214, 152],
 		"uniques": [
-			"Occurs at temperature between [-0.75] and [0.8] and humidity between [-1] and [1]",
+			"Occurs at temperature between [-0.5] and [0.6] and humidity between [0] and [1]",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
@@ -38,7 +38,7 @@
 		"defenceBonus": -0.2,
 		"RGB": [189, 204, 191],
 		"uniques": [
-			"Occurs at temperature between [-0.9] and [-0.7] and humidity between [-1] and [1]",
+			"Occurs at temperature between [-0.9] and [-0.7] and humidity between [0] and [1]",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
@@ -50,7 +50,7 @@
 		"movementCost": 1,
 		"RGB": [231, 242, 249],
 		"uniques": [
-			"Occurs at temperature between [-1] and [-0.8] and humidity between [-1] and [1]",
+			"Occurs at temperature between [-1] and [-0.8] and humidity between [0] and [1]",
 			"Always Fertility [-1] for Map Generation",
 			"Considered [Undesirable] when determining start locations",
 			"Every [17] tiles with this terrain will receive a major deposit of a strategic resource."
@@ -63,8 +63,20 @@
 		"defenceBonus": -0.2,
 		"RGB": [230, 230, 113],
 		"uniques": [
-			"Occurs at temperature between [0.7] and [1] and humidity between [-1] and [1]",
+			"Occurs at temperature between [0.7] and [1] and humidity between [0] and [1]",
 			"Considered [Food] when determining start locations",
+			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
+	},
+	{
+		"name": "Plains",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [61, 142, 93],
+		"uniques": [
+			"Occurs at temperature between [0.5] and [0.7] and humidity between [0] and [1]",
+			"Occurs at temperature between [-0.7] and [-0.3] and humidity between [0] and [1]",
+			"Considered [Desirable] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
 	},
@@ -85,15 +97,10 @@
 		"type": "Water",
 		"RGB": [123, 202, 226],
 		"uniques": [
-			"Occurs at temperature between [-1] and [1] and humidity between [0.8] and [1]",
+			"Occurs at temperature between [-1] and [1] and humidity between [0.7] and [1]",
 			"Fresh water",
 			"Considered [Food] when determining start locations",
 			"Considered [Desirable] when determining start locations"
-		],
-		"civilopediaText": [
-			{
-				"text": "Some surface water coalesce into lakes, of which life took full advantage of."
-			}
 		]
 	},
 
@@ -156,7 +163,7 @@
 		],
 		"uniques": [
 			"Rough terrain",
-			"Occurs at temperature between [-1] and [-0.8] and humidity between [-1] and [1]",
+			"Occurs at temperature between [-1] and [-0.8] and humidity between [0] and [1]",
 			"Considered [Undesirable] when determining start locations"
 		]
 	}

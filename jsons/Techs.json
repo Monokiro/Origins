@@ -7,8 +7,7 @@
 		"techs": [
 			{
 				"name": "Animalistic Nature Origins",
-				"column": 1,
-				"row": 1,
+				"row": 0,
 				"quote": "",
 				"uniques": [
 					"Starting tech"
@@ -16,8 +15,7 @@
 			},
 			{
 				"name": "Primitive Tools",
-				"column": 2,
-				"row": 1,
+				"row": 0,
 				"quote": "",
 				"prerequisites": [
 					"Animalistic Nature Origins"
@@ -28,8 +26,7 @@
 			},
 			{
 				"name": "Primitive Hunting Weapons",
-				"column": 3,
-				"row": 1,
+				"row": 0,
 				"quote": "",
 				"prerequisites": [
 					"Primitive Tools"

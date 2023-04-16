@@ -6,7 +6,7 @@
 		],
 		"food": 1,
 		"turnsToBuild": 10,
-		"techRequired": "Animalistic Nature Origins",
+		"techRequired": "Tribal Organisation",
 		"uniques": [
 			"Can only be built to improve a resource"
 		],

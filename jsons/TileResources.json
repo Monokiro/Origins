@@ -2,7 +2,7 @@
     {
 		"name": "Prey",
 		"resourceType": "Bonus",
-		"revealedBy": "Animalistic Nature Origins",
+		"revealedBy": "Tribal Organisation",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"improvement": "Hunting Grounds",
 		"improvementStats": { "food": 1 },

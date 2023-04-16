@@ -1,4 +1,7 @@
 [
+	//
+	//	Primeval era
+	//
     {
         "columnNumber": 0,
 		"era": "Primeval Era",
@@ -6,7 +9,7 @@
 		"buildingCost": 100,
 		"techs": [
 			{
-				"name": "Animalistic Nature Origins",
+				"name": "Tribal Organisation",
 				"row": 3,
 				"quote": "",
 				"uniques": [
@@ -23,13 +26,32 @@
 		"techs": [
 			{
 				"name": "Primitive Tools",
-				"row": 3,
+				"row": 2,
 				"quote": "",
 				"prerequisites": [
-					"Animalistic Nature Origins"
+					"Tribal Organisation"
 				],
 				"uniques": [
 
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Primitive Hierarchy",
+				"row": 3,
+				"quote": "",
+				"prerequisites": [
+					"Tribal Organisation"
+				],
+				"uniques": [
+					
 				]
 			}
 		]

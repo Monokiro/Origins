@@ -14,7 +14,7 @@
         ]
     },
     {
-		"name": "Workers",
+		"name": "Tribesmen",
 		"unitType": "Civilian",
 		"movement": 1,
 		"uniques": [

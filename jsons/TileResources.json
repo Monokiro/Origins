@@ -7,12 +7,10 @@
 		"improvement": "Hunting Grounds",
 		"improvementStats": { "food": 1 },
 		"uniques": [
-			"Generated on every [10] tiles <in [Featureless] [Grassland] tiles>"
-		],
-		"civilopediaText": [
-			{
-				"text": "Numerous harbivores to hunt on."
-			}
+			"Generated on every [10] tiles <in [Grassland] tiles>",
+			"Generated on every [15] tiles <in [Plains] tiles>",
+			"Generated on every [20] tiles <in [Tundra] tiles>",
+			"Generated on every [25] tiles <in [Desert] tiles>"
 		]
 	}
 ]

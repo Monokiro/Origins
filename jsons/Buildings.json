@@ -1,24 +1,19 @@
 [
     {
-		"name": "Grand Totem",
+		"name": "Tribe Center",
+		"maintenance": 0,
 		"isNationalWonder": true,
-		"food": 2,
-		"production": 1,
-		"science": 1,
-		"gold": 1,
-		"culture": 1,
-		"specialistSlots": { 
-			"Hunter": 1,
-			"Gatherer": 1
-		},
 		"cost": 1,
 		"uniques": [
 			"Indicates the capital city"
-		],
-		"civilopediaText": [
-			{
-				"text": "The very center of your tribe capital settlement"
-			}
 		]
+	},
+	{
+		"name": "Hunters Lodge",
+		"maintenance": 0,
+		"uniques": [
+			"Only available <after adopting [Hunting]>"
+		],
+		"requiredTech": "Primitive Hunting Weapons"
 	}
 ]

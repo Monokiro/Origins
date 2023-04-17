@@ -101,26 +101,6 @@
 		"buildingCost": 100,
 		"techs": [
 			{
-				"name": "Craftsmanship",
-				"row": 3,
-				"quote": "",
-				"prerequisites": [
-					"Primitive Tools",
-					"Crafting Skills"
-				],
-				"uniques": [
-
-				]
-			}
-		]
-	},
-	{
-		"columnNumber": 2,
-		"era": "Primeval Era",
-		"techCost": 100,
-		"buildingCost": 100,
-		"techs": [
-			{
 				"name": "Crafting Skills",
 				"row": 4,
 				"quote": "",
@@ -146,6 +126,26 @@
 				"quote": "",
 				"prerequisites": [
 					"Wisdom Accumulation"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Craftsmanship",
+				"row": 3,
+				"quote": "",
+				"prerequisites": [
+					"Primitive Tools",
+					"Crafting Skills"
 				],
 				"uniques": [
 

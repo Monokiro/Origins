@@ -36,10 +36,20 @@
 		},
 		"uniques": [
 			"Stockpiled",
-			"Generated on every [8] tiles <in [Hill] tiles>",
-			"Generated on every [6] tiles <in [Mountain] tiles>",
-			"Generated on every [15] tiles <in [Plains] tiles>",
-			"Generated on every [25] tiles <in [Desert] tiles>"
-		]
+			"Generated on every [10] tiles <in [Hill] tiles>",
+			"Generated on every [8] tiles <in [Mountain] tiles>",
+			"Generated on every [20] tiles <in [Plains] tiles>",
+			"Generated on every [30] tiles <in [Desert] tiles>"
+		],
+		"majorDepositAmount": { 
+			"sparse": 3, 
+			"default": 3, 
+			"abundant": 3 
+		},
+		"minorDepositAmount": { 
+			"sparse": 1, 
+			"default": 1, 
+			"abundant": 1 
+		}
 	}
 ]

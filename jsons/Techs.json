@@ -10,7 +10,7 @@
 		"techs": [
 			{
 				"name": "Tribal Organisation",
-				"row": 3,
+				"row": 1,
 				"quote": "",
 				"uniques": [
 					"Starting tech"
@@ -45,7 +45,26 @@
 		"techs": [
 			{
 				"name": "Primitive Hierarchy",
-				"row": 3,
+				"row": 1,
+				"quote": "",
+				"prerequisites": [
+					"Tribal Organisation"
+				],
+				"uniques": [
+					
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Wisdom Accumulation",
+				"row": 4,
 				"quote": "",
 				"prerequisites": [
 					"Tribal Organisation"
@@ -64,13 +83,111 @@
 		"techs": [
 			{
 				"name": "Primitive Hunting Weapons",
-				"row": 3,
+				"row": 2,
 				"quote": "",
 				"prerequisites": [
 					"Primitive Tools"
 				],
 				"uniques": [
 					"[+20]% Strength <for [Hunters] units> <vs [Animals] units>"
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Craftsmanship",
+				"row": 3,
+				"quote": "",
+				"prerequisites": [
+					"Primitive Tools",
+					"Crafting Skills"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Crafting Skills",
+				"row": 4,
+				"quote": "",
+				"prerequisites": [
+					"Primitive Tools",
+					"Wisdom Accumulation"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Spiritual Guidance",
+				"row": 5,
+				"quote": "",
+				"prerequisites": [
+					"Wisdom Accumulation"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Rituals",
+				"row": 5,
+				"quote": "",
+				"prerequisites": [
+					"Spiritual Guidance",
+					"Crafting Skills"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Spiritual Contacts",
+				"row": 5,
+				"quote": "",
+				"prerequisites": [
+					"Rituals"
+				],
+				"uniques": [
+
 				]
 			}
 		]

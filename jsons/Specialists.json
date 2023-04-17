@@ -2,16 +2,21 @@
     {
         "name": "Hunter",
         "uniques": [
+
         ],
         "color": [255, 20, 20]
     },
     {
         "name": "Gatherer",
+        "uniques": [
+
+        ],
         "color": [20, 255, 20]
     },
     {
         "name": "Chieftain",
         "uniques": [
+            
         ],
         "color": [255, 20, 20]
     }

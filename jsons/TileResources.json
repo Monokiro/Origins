@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "Stone",
-		"resourceType": "Bonus",
+		"resourceType": "Strategic",
 		"revealedBy": "Primitive Tools",
 		"terrainsCanBeFoundOn": [
 			"Hill",

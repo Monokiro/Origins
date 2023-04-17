@@ -5,7 +5,7 @@
 		"isNationalWonder": true,
 		"specialistSlots": {
 			"Chieftain": 1,
-			"Gathrerer": 1
+			"Gatherer": 1
 		},
 		"cost": 1,
 		"uniques": [

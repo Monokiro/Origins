@@ -26,7 +26,7 @@
 		"techs": [
 			{
 				"name": "Primitive Tools",
-				"row": 3,
+				"row": 4,
 				"quote": "",
 				"prerequisites": [
 					"Tribal Organisation"
@@ -39,6 +39,25 @@
 	},
 	{
 		"columnNumber": 1,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Gathering",
+				"row": 2,
+				"quote": "",
+				"prerequisites": [
+					"Tribal Organisation"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{
+		"columnNumber": 3,
 		"era": "Primeval Era",
 		"techCost": 100,
 		"buildingCost": 100,
@@ -64,7 +83,7 @@
 		"techs": [
 			{
 				"name": "Wisdom Accumulation",
-				"row": 4,
+				"row": 5,
 				"quote": "",
 				"prerequisites": [
 					"Tribal Organisation"
@@ -83,7 +102,7 @@
 		"techs": [
 			{
 				"name": "Primitive Hunting Weapons",
-				"row": 2,
+				"row": 3,
 				"quote": "",
 				"prerequisites": [
 					"Primitive Tools"
@@ -102,7 +121,7 @@
 		"techs": [
 			{
 				"name": "Crafting Skills",
-				"row": 4,
+				"row": 5,
 				"quote": "",
 				"prerequisites": [
 					"Primitive Tools",
@@ -122,7 +141,7 @@
 		"techs": [
 			{
 				"name": "Spiritual Guidance",
-				"row": 5,
+				"row": 6,
 				"quote": "",
 				"prerequisites": [
 					"Wisdom Accumulation"
@@ -141,7 +160,7 @@
 		"techs": [
 			{
 				"name": "Craftsmanship",
-				"row": 3,
+				"row": 4,
 				"quote": "",
 				"prerequisites": [
 					"Primitive Tools",
@@ -161,7 +180,7 @@
 		"techs": [
 			{
 				"name": "Rituals",
-				"row": 5,
+				"row": 6,
 				"quote": "",
 				"prerequisites": [
 					"Spiritual Guidance",
@@ -181,7 +200,7 @@
 		"techs": [
 			{
 				"name": "Spiritual Contacts",
-				"row": 5,
+				"row": 6,
 				"quote": "",
 				"prerequisites": [
 					"Rituals"

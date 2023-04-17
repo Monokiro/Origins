@@ -3,14 +3,19 @@
         "name": "Hunter",
         "food": 1,
         "uniques": [
-            "[+5]% Production when constructing [Hunters] [in this city]"
         ],
-        //"greatPersonPoints": { "Name": Value },
         "color": [255, 20, 20]
     },
     {
         "name": "Gatherer",
         "food": 2,
         "color": [20, 255, 20]
+    },
+    {
+        "name": "Chieftain",
+        "gold": 1,
+        "uniques": [
+        ],
+        "color": [255, 20, 20]
     }
 ]

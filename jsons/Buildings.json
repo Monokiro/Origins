@@ -5,7 +5,8 @@
 		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": [
-			"Indicates the capital city"
+			"Indicates the capital city",
+			"[+1] [Gatherer] <upon discovering [Gathering]>"
 		]
 	},
 	{

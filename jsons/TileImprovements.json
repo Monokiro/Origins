@@ -41,7 +41,8 @@
 		"terrainsCanBeBuiltOn": [
 			"Land",
 			"Forest",
-			"Water"
+			"Water",
+			"Coast"
 		],
 		"uniques": [
 			"Unpillagable", 

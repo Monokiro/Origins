@@ -15,6 +15,7 @@
         cityStrengthFromTechsMultiplier: 0,
         unitUpgradeCost:{
 
-        }
+        },
+        ancientRuinCountMultiplier: 100
     }
 }

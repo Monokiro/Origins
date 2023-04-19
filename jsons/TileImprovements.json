@@ -39,8 +39,7 @@
 		//"name": "Ancient ruins",
 		"name": "Curiosity",
 		"terrainsCanBeBuiltOn": [
-			"Land",
-			"Water"
+			"Land"
 		],
 		"uniques": [
 			"Unpillagable", 

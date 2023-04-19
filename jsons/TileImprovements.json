@@ -40,9 +40,7 @@
 		"name": "Curiosity",
 		"terrainsCanBeBuiltOn": [
 			"Land",
-			"Forest",
-			"Water",
-			"Coast"
+			"Forest"
 		],
 		"uniques": [
 			"Unpillagable", 

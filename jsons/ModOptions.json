@@ -16,6 +16,6 @@
         unitUpgradeCost:{
 
         },
-        ancientRuinCountMultiplier: 100
+        ancientRuinCountMultiplier: 10000
     }
 }

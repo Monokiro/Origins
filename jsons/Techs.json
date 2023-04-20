@@ -83,7 +83,7 @@
 		"techs": [
 			{
 				"name": "Exploring",
-				"row": 4,
+				"row": 3,
 				"quote": "",
 				"prerequisites": [
 					"Gathering"
@@ -256,7 +256,7 @@
 		"techs": [
 			{
 				"name": "Division of Labor",
-				"row": 4,
+				"row": 5,
 				"quote": "",
 				"prerequisites": [
 					"Craftsmanship"

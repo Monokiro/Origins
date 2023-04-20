@@ -1,5 +1,8 @@
 [
-    {
+	//
+	//	Bonus
+	//
+    {	//	Prey
 		"name": "Prey",
 		"resourceType": "Bonus",
 		"revealedBy": "Tribal Organisation",
@@ -20,7 +23,7 @@
 			"Generated on every [25] tiles <in [Desert] tiles>"
 		]
 	},
-	{
+	{	//	Stone
 		"name": "Stone",
 		"resourceType": "Strategic",
 		"revealedBy": "Primitive Tools",

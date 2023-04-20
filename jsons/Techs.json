@@ -191,6 +191,25 @@
 			}
 		]
 	},
+	{	//	Belief
+		"columnNumber": 4,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Belief",
+				"row": 5,
+				"quote": "",
+				"prerequisites": [
+					"Rituals"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
 	{	//	Spiritual Contacts
 		"columnNumber": 4,
 		"era": "Primeval Era",
@@ -205,7 +224,7 @@
 					"Rituals"
 				],
 				"uniques": [
-
+					"Only available <after adopting [Mysticism]>"
 				]
 			}
 		]

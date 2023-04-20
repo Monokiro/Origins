@@ -1,6 +1,6 @@
 [
 	//
-	// Bonus
+	//	Bonus
 	//
     {	//	Hunting Grounds
 		"name": "Hunting Grounds",
@@ -29,7 +29,8 @@
 		"turnsToBuild": 10,
 		"techRequired": "Primitive Tools",
 		"uniques": [
-			"Can only be built to improve a resource"
+			"Can only be built to improve a resource",
+			"Can only be built on [Stone] tiles"
 		],
 		"shortcutKey": "F"
 	},

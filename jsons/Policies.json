@@ -49,7 +49,34 @@
 		]
 	},
 	{	//	Scintific block
+		"name": "Materialism",
+		"era": "Primeval Era",
+		"priorities": {
+			"Neutral": 30,
+			"Cultural": 10,
+			"Diplomatic": 10,
+			"Domination": 10,
+			"Scientific": 10
+			},
+		"uniques": [
 
+		],
+		"policies": [
+			{	//	Materials knowledge
+				"name": "Materials knowledge",
+				"uniques": [
+
+				],
+				"row": 1,
+				"column": 1
+			},
+			{	//	Materialism Complete
+				"name": "Materialism Complete",
+				"uniques": [
+					
+				]
+			}
+		]
 	},
 	{	//	Mystic block
 		"name": "Mysticism",
@@ -65,7 +92,20 @@
 
 		],
 		"policies": [
+			{	//	Spiritual energy
+				"name": "Spiritual energy",
+				"uniques": [
 
+				],
+				"row": 1,
+				"column": 1
+			},
+			{	//	Mysticism Complete
+				"name": "Mysticism Complete",
+				"uniques": [
+					
+				]
+			}
 		]
 	}
 ]

@@ -9,15 +9,30 @@
 		},
 		"cost": 1,
 		"uniques": [
-			"Indicates the capital city",
+			"Indicates the capital city"
 		]
 	},
 	{
 		"name": "Hunters Lodge",
 		"maintenance": 0,
+		"specialistSlots":{
+			"Hunter": 1
+		},
 		"uniques": [
-			"Only available <after adopting [Hunting]>"
+			"Only available <after adopting [Hunting]>",
+			"[+1 Food] from every [Hunter]",
+			"[+1 Production] from every [Hunter]"
 		],
 		"requiredTech": "Primitive Hunting Weapons"
+	},
+	{
+		"name": "Gatherers Lodge",
+		"maintenance": 0,
+		"specialistSlots":{
+			"Gatherer": 1
+		},
+		"uniques": [
+		],
+		"requiredTech": "Gathering"
 	}
 ]

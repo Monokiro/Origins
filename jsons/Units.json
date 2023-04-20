@@ -31,7 +31,10 @@
         "unitType": "Irregular Infantry",
         "movement": 1,
         "strength": 1,
-        "cost": 100
+        "cost": 100,
+        "uniques": [
+			"Never appears as a Barbarian unit"
+		]
     },
 
     //
@@ -41,7 +44,6 @@
         "name": "Wolves",
 		"unitType": "Animals",
 		"uniqueTo": "Barbarians",
-        "replaces": "Hunters",
 		"movement": 2,
 		"strength": 1,
 		"cost": 100,

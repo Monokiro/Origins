@@ -2,10 +2,13 @@
 	//
 	// Bonus
 	//
-    {
+    {	//	Hunting Grounds
 		"name": "Hunting Grounds",
 		"terrainsCanBeBuiltOn": [
-			"Grassland"
+			"Grassland",
+			"Plains",
+			"Tundra",
+			"Desert"
 		],
 		"food": 1,
 		"turnsToBuild": 10,
@@ -15,7 +18,7 @@
 		],
 		"shortcutKey": "F"
 	},
-	{
+	{	//	Stone Gathering
 		"name": "Stone Gathering",
 		"terrainsCanBeBuiltOn": [
 			"Hill",
@@ -23,7 +26,6 @@
 			"Plains",
 			"Desert"
 		],
-		"food": 1,
 		"turnsToBuild": 10,
 		"techRequired": "Primitive Tools",
 		"uniques": [
@@ -35,7 +37,7 @@
 	//
 	// Etc
 	//
-	{
+	{	//	Ancient ruins
 		//"name": "Ancient ruins",
 		"name": "Curiosity",
 		"terrainsCanBeBuiltOn": [
@@ -48,7 +50,7 @@
 			"Unbuildable"
 		]
 	},
-	{
+	{	//	City ruins
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": [
 			"Land"
@@ -59,7 +61,7 @@
 			"Will be replaced by automated workers"
 		]
 	},
-	{
+	{	//	City center
 		"name": "City center",
 		"terrainsCanBeBuiltOn": [
 			"Land"
@@ -70,7 +72,7 @@
 			"Unbuildable"
 		]
 	},
-	{
+	{	//	Barbarian encampment
 		"name": "Barbarian encampment",
 		"terrainsCanBeBuiltOn": [
 			"Land"

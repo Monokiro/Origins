@@ -1,7 +1,7 @@
 [
     {
         "name": "found survey location",
-		"notification": "Your tribesmen located lookout point!",
+		"notification": "Your men located lookout point!",
 		"uniques": [
 			"From a randomly chosen tile [4] tiles away, reveal tiles up to [4] tiles away with [80]% chance"
 		]

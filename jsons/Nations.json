@@ -1,69 +1,60 @@
 [
-    // Spectator
-	{
+	{	//	Spectator
 		"name": "Spectator",
 		"outerColor": [255, 255, 255]
 		// "innerColor": [255,255,255]
 	},
 
-	{
-		//white
+	{	//	white
 		"name": "Tribe Shiro",
 		"outerColor": [255, 255, 255],
 		"innerColor": [144, 144, 144],
 
 		"cities": ["Shiro"]
 	},
-	{
-		//black
+	{	//	black
 		"name": "Tribe Kuro",
 		"outerColor": [0, 0, 0],
 		"innerColor": [180, 180, 180],
 
 		"cities": ["Kuro"]
 	},
-	{
-		//blue
+	{	//	blue
 		"name": "Tribe Ao",
 		"outerColor": [12, 12, 255],
 		"innerColor": [180, 180, 180],
 
 		"cities": ["Ao"]
 	},
-	{
-		//red
+	{	//	red
 		"name": "Tribe Aka",
 		"outerColor": [204, 9, 9],
 		"innerColor": [195, 195, 195],
 
 		"cities": ["Aka"]
 	},
-	{
-		//green
+	{	//	green
 		"name": "Tribe Midori",
 		"outerColor": [84, 255, 84],
 		"innerColor": [126, 126, 126],
 
 		"cities": ["Midori"]
 	},
-	{
-		//yellow
+	{	//	yellow
 		"name": "Tribe Kiiro",
 		"outerColor": [255, 255, 72],
 		"innerColor": [135, 135, 135],
 
 		"cities": ["Kiiro"]
 	},
-	{
-		//brown
+	{	//	brown
 		"name": "Tribe Chairo",
 		"outerColor": [140, 35, 35],
 		"innerColor": [153, 153, 153],
 
 		"cities": ["Chairo"]
 	},
-	{
-		//Golden
+	{	//	Golden
 		"name": "Tribe Ogonshoku",
 		"outerColor": [255, 219, 25],
 		"innerColor": [121, 121, 121],
@@ -72,8 +63,8 @@
 	},
 
 
-	// Barbarian
-	{
+	
+	{	//	Barbarian
 		"name": "Barbarians",
 		"style": "Barbarians",
 		"outerColor": [153, 153, 153],

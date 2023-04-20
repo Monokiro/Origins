@@ -1,5 +1,5 @@
 [
-    {
+    {	//	Tribe Center
 		"name": "Tribe Center",
 		"maintenance": 0,
 		"isNationalWonder": true,
@@ -12,7 +12,7 @@
 			"Indicates the capital city"
 		]
 	},
-	{
+	{	//	Hunters Lodge
 		"name": "Hunters Lodge",
 		"maintenance": 0,
 		"specialistSlots":{
@@ -25,7 +25,7 @@
 		],
 		"requiredTech": "Primitive Hunting Weapons"
 	},
-	{
+	{	//	Gatherers Lodge
 		"name": "Gatherers Lodge",
 		"maintenance": 0,
 		"specialistSlots":{

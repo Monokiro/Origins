@@ -2,7 +2,7 @@
     //
     // Civilian
     //
-    {
+    {   //Tribe
         "name": "Tribe",
         "unitType": "Civilian",
         "movement": 1,
@@ -13,7 +13,7 @@
 			"Requires at least [2] population"
         ]
     },
-    {
+    {   //Tribesmen
 		"name": "Tribesmen",
 		"unitType": "Civilian",
 		"movement": 1,
@@ -26,7 +26,7 @@
     //
     // Irregular Infantry
     //
-    {
+    {   //Hunters
         "name": "Hunters",
         "unitType": "Irregular Infantry",
         "movement": 1,
@@ -40,7 +40,7 @@
     //
     // Barbarians
     //
-    {
+    {   //Wolves
         "name": "Wolves",
 		"unitType": "Animals",
 		"uniqueTo": "Barbarians",

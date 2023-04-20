@@ -2,7 +2,7 @@
 	//
 	//	Primeval era
 	//
-    {
+    {	//	Tribal Organisation
         "columnNumber": 0,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -18,7 +18,7 @@
 			}
 		]
     },
-	{
+	{	//	Primitive Tools
 		"columnNumber": 1,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -37,7 +37,7 @@
 			}
 		]
 	},
-	{
+	{	//	Gathering
 		"columnNumber": 1,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -56,7 +56,7 @@
 			}
 		]
 	},
-	{
+	{	//	Primitive Hierarchy
 		"columnNumber": 3,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -75,7 +75,7 @@
 			}
 		]
 	},
-	{
+	{	//	Wisdom Accumulation
 		"columnNumber": 1,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -94,7 +94,7 @@
 			}
 		]
 	},
-	{
+	{	//	Primitive Hunting Weapons
 		"columnNumber": 2,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -113,7 +113,7 @@
 			}
 		]
 	},
-	{
+	{	//	Crafting Skills
 		"columnNumber": 2,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -133,7 +133,7 @@
 			}
 		]
 	},
-	{
+	{	//	Spiritual Guidance
 		"columnNumber": 2,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -152,7 +152,7 @@
 			}
 		]
 	},
-	{
+	{	//	Craftsmanship
 		"columnNumber": 3,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -171,7 +171,7 @@
 			}
 		]
 	},
-	{
+	{	//	Rituals
 		"columnNumber": 3,
 		"era": "Primeval Era",
 		"techCost": 100,
@@ -191,7 +191,7 @@
 			}
 		]
 	},
-	{
+	{	//	Spiritual Contacts
 		"columnNumber": 4,
 		"era": "Primeval Era",
 		"techCost": 100,

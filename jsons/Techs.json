@@ -18,25 +18,6 @@
 			}
 		]
     },
-	{	//	Primitive Tools
-		"columnNumber": 1,
-		"era": "Primeval Era",
-		"techCost": 100,
-		"buildingCost": 100,
-		"techs": [
-			{
-				"name": "Primitive Tools",
-				"row": 4,
-				"quote": "",
-				"prerequisites": [
-					"Tribal Organisation"
-				],
-				"uniques": [
-
-				]
-			}
-		]
-	},
 	{	//	Gathering
 		"columnNumber": 1,
 		"era": "Primeval Era",
@@ -45,7 +26,7 @@
 		"techs": [
 			{
 				"name": "Gathering",
-				"row": 2,
+				"row": 3,
 				"quote": "",
 				"prerequisites": [
 					"Tribal Organisation"
@@ -56,21 +37,21 @@
 			}
 		]
 	},
-	{	//	Primitive Hierarchy
-		"columnNumber": 3,
+	{	//	Primitive Tools
+		"columnNumber": 1,
 		"era": "Primeval Era",
 		"techCost": 100,
 		"buildingCost": 100,
 		"techs": [
 			{
-				"name": "Primitive Hierarchy",
-				"row": 1,
+				"name": "Primitive Tools",
+				"row": 5,
 				"quote": "",
 				"prerequisites": [
 					"Tribal Organisation"
 				],
 				"uniques": [
-					"[+1 Gold] from every [Chieftain]"
+
 				]
 			}
 		]
@@ -83,13 +64,32 @@
 		"techs": [
 			{
 				"name": "Wisdom Accumulation",
-				"row": 5,
+				"row": 7,
 				"quote": "",
 				"prerequisites": [
 					"Tribal Organisation"
 				],
 				"uniques": [
 					"[+1 Culture] from every [Chieftain]"
+				]
+			}
+		]
+	},
+	{	//	Exploring
+		"columnNumber": 2,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Exploring",
+				"row": 4,
+				"quote": "",
+				"prerequisites": [
+					"Gathering"
+				],
+				"uniques": [
+					"[+1] Movement <for [Hunters] units>"
 				]
 			}
 		]
@@ -102,7 +102,7 @@
 		"techs": [
 			{
 				"name": "Primitive Hunting Weapons",
-				"row": 3,
+				"row": 4,
 				"quote": "",
 				"prerequisites": [
 					"Primitive Tools"
@@ -121,7 +121,7 @@
 		"techs": [
 			{
 				"name": "Crafting Skills",
-				"row": 5,
+				"row": 6,
 				"quote": "",
 				"prerequisites": [
 					"Primitive Tools",
@@ -141,10 +141,48 @@
 		"techs": [
 			{
 				"name": "Spiritual Guidance",
-				"row": 6,
+				"row": 7,
 				"quote": "",
 				"prerequisites": [
 					"Wisdom Accumulation"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{	//	Primitive Hierarchy
+		"columnNumber": 4,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Primitive Hierarchy",
+				"row": 1,
+				"quote": "",
+				"prerequisites": [
+					"Tribal Organisation"
+				],
+				"uniques": [
+					"[+1 Gold] from every [Chieftain]"
+				]
+			}
+		]
+	},
+	{	//	Animal study
+		"columnNumber": 3,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Animal study",
+				"row": 4,
+				"quote": "",
+				"prerequisites": [
+					"Primitive Hunting Weapons"
 				],
 				"uniques": [
 
@@ -160,7 +198,7 @@
 		"techs": [
 			{
 				"name": "Craftsmanship",
-				"row": 4,
+				"row": 5,
 				"quote": "",
 				"prerequisites": [
 					"Crafting Skills"
@@ -179,11 +217,49 @@
 		"techs": [
 			{
 				"name": "Rituals",
-				"row": 6,
+				"row": 7,
 				"quote": "",
 				"prerequisites": [
 					"Spiritual Guidance",
 					"Crafting Skills"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{	//	Animal Taming
+		"columnNumber": 4,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Animal Taming",
+				"row": 4,
+				"quote": "",
+				"prerequisites": [
+					"Animal study"
+				],
+				"uniques": [
+
+				]
+			}
+		]
+	},
+	{	//	Division of Labor
+		"columnNumber": 4,
+		"era": "Primeval Era",
+		"techCost": 100,
+		"buildingCost": 100,
+		"techs": [
+			{
+				"name": "Division of Labor",
+				"row": 4,
+				"quote": "",
+				"prerequisites": [
+					"Craftsmanship"
 				],
 				"uniques": [
 
@@ -199,7 +275,7 @@
 		"techs": [
 			{
 				"name": "Belief",
-				"row": 5,
+				"row": 7,
 				"quote": "",
 				"prerequisites": [
 					"Rituals"
@@ -218,7 +294,7 @@
 		"techs": [
 			{
 				"name": "Spiritual Contacts",
-				"row": 6,
+				"row": 8,
 				"quote": "",
 				"prerequisites": [
 					"Rituals"

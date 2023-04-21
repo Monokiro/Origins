@@ -2,8 +2,8 @@
 	//
 	//	Bonus
 	//
-    {	//	Prey
-		"name": "Prey",
+    {	//	Wild animals
+		"name": "Wild animals",
 		"resourceType": "Bonus",
 		"revealedBy": "Tribal Organisation",
 		"terrainsCanBeFoundOn": [

@@ -4,6 +4,13 @@ size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/FantasyHex/Tiles/Wild animals
+  rotate: false
+  xy: 524, 624
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Hunters
   rotate: false
   xy: 4, 4
